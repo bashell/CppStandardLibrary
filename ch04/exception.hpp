@@ -42,4 +42,3 @@ void processException() {
         cerr << "EXCEPTION (unknow)" << endl;
     }
 }
-
